@@ -1,0 +1,1 @@
+export TAG_SCC_LOFSELECTCLUB_SERVICE=MyVersion
